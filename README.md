@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm nightsoul4261 👋</h1>
+<h1 align="center">Hi there, I'm Night.. 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9C4B&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Minecraft+Plugins+%26+Servers;Server+Management+%26+Systems+Development;Discord+Bot+Developer;Java+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
